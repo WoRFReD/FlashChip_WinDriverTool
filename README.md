@@ -42,3 +42,9 @@
 ---
 by WoRFReD  
 Canal: [FlashChip](https://youtube.com/@flashchiped)
+---
+
+### ☕ ¿Te ha sido útil este proyecto?
+Si esta herramienta te ha servido de ayuda y quieres apoyar el desarrollo de nuevos scripts y proyectos para el canal:
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://paypal.me/WoRFReD)
